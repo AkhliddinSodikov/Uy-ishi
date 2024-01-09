@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hero{
+    background-color: #f5f5f5;
+}
+
+.all{
+    margin-top: 94px;
+    text-align: center;
+}
+.text{
+    margin-top: 28px;
+    text-align: center;
+}
+.photo img{
+    width: 996px;
+    height: 560px;
+    display: block;
+    margin: 0 auto;
+}
+.photo{
+    margin-top: 90px;
+}
+.btn{
+    width: 184px;
+    height: 40px;
+    background-color: #6F2CFF;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    margin-left: 550px;
+    margin-top: 76px;
+}
+.btn1 {
+    width: 184px;
+    height: 40px;
+    background-color: white;
+    color: #6F2CFF;
+    border: none;
+    border-radius: 50px;
+    margin: 22px;
+}
+.specialize{
+    text-align: center;
+    margin-top: 76px;
+}
+.specialize-text{
+    text-align: center;
+    margin-top: 12px;
+}
+.footer{
+    margin-top: 85px;
+    width: 492px;
+    height: 199px;
+    background-color: #17002E;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+.footer-icon{
+    width: 53px;
+    height: 50px;
+    margin: 30px 32px;
+    
+}
+.ico-title{
+    margin-top: 42px;
+    color: white;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.footer-box{
+    display: flex;
+    
+}
+.footer-text{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 32px;
+}
+.footer-text2{
+    color: white;
+    margin-left: 32px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 8px;
+
+}
+.footer-hr{
+    width: 383px;
+    margin-left: 32px;
+    margin-top: 9px;
+}
+.footer1{
+
+    margin-top: 20px;
+    width: 492px;
+    height: 199px;
+    background-color: #17002E;
+    border-radius: 10px;
+    margin-left: 500px;
+
+}
